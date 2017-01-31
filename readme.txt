@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 My name is batman!
 =3 This is michael editing
 
@@ -12,3 +13,7 @@ It looks like they are defualts that github implements to denote who last editte
 
 =3 Michael
 >>>>>>> master
+=======
+Hello !! everything is done by Anita, Than-le, Jisu, and Michael.
+
+>>>>>>> eb936f9841fd10660581295e2e72f23c6f101be1
