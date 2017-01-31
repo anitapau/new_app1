@@ -1,9 +1,3 @@
-My name is Thanh Le
-Hello! my name is anita paudel
+My name is batman!
+=3 This is michael editing
 
-<<<<<<< HEAD
-This is Michael!
-=======
-This is michael!
-
->>>>>>> master
