@@ -9,3 +9,5 @@ My name is Thanh Le
 Hello! my name is anita paudel
 
 >>>>>>> anitaBranch
+
+This is Michael!
